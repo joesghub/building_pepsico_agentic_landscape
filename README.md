@@ -1,1 +1,10 @@
-PepsiCo Agentic AI - Kura Labs Showcase.pdf
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/1.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/2.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/3.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/4.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/5.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/6.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/7.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/8.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/9.png?raw=true)
+![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/10.png?raw=true)
