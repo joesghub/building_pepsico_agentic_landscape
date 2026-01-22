@@ -1,3 +1,10 @@
+# Building the PepsiCo Agentic Landscape
+
+[![Presented At](https://img.shields.io/badge/Presented%20At-ServiceNow%20World%20Forum%20NYC%202025-blue)](https://www.servicenow.com)
+
+Reference architecture for an enterprise agentic landscape using ServiceNow AI Agent Studio, n8n, and MCP to automate PepsiCo logistics incident resolution; presented at ServiceNow World Forum NYC 2025 during RiseUp's *"The Future of Agentic AI in Enterprise Organizations"* panel.
+
+
 ![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/1.png?raw=true)
 
 ### PepsiCo’s job is to make sure their products, like Gatorade or Lay’s, reach retailers on time and in the right quantities. 
