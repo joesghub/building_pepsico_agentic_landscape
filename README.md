@@ -53,3 +53,9 @@ Reference architecture for an enterprise agentic landscape using ServiceNow AI A
 ![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/9.png?raw=true)
 
 ![](https://github.com/joesghub/building_pepsico_agentic_landscape/blob/main/slides/10.png?raw=true)
+
+## 🤝🏾 Connect With Me
+
+- 🌐 [Kura Labs](https://www.kuralabs.org/)
+- 💼 [LinkedIn – Joe Reynolds](https://www.linkedin.com/in/joeslnkdin/)
+- ✉️ [joekuralabs@gmail.com](mailto:joekuralabs@gmail.com)
